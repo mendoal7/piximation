@@ -1,1 +1,1 @@
-Full page scrolling with images included.
+Full page scrolling with sample images included.
